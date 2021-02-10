@@ -1,1 +1,3 @@
 another feature was made.
+
+some change in feature 2.
